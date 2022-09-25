@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.itemRow{
+    text-align: center;
+}
+
+.deleteBtn{
+    border: none;
+    color: brown;
+    width: 0px;
+    margin-right: 44px;
+}
